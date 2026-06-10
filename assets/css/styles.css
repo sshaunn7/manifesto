@@ -4,7 +4,11 @@
 	font-family: Arial;
 }
 
-
+html {
+	background-color: goldenrod;
+	background-image: 
+		linear-gradient(goldenrod, forestgreen);
+}
 
 
 h1 {
